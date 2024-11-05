@@ -50,9 +50,9 @@ let name = prompt("Введіть ваше ім'я:");
 console.log("Ваше ім'я:", name);
 
 let middleNames = prompt("Введіть ваше По-Батькові:");
-console.log("Ваше ім'я:", middleNames);
+console.log("По-Батькові:", middleNames);
 
 let year = prompt("Введіть ваш вік:");
 
-console.log("Ваше ім'я:", year);
+console.log("Ваш вік:", year);
 

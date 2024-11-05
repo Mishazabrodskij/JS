@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33921f0f-da4a-44be-96bb-faf18b2b148c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="33921f0f-da4a-44be-96bb-faf18b2b148c" name="Changes" comment="js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/hm js 2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/hm js 2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mishazabrodskij"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mishazabrodskij/JS.git",
+    "accountId": "7f7a8303-a2eb-4a4d-8a1f-471c0003ec45"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -76,12 +78,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730738801149</updated>
-      <workItem from="1730738802364" duration="4264000" />
+      <workItem from="1730738802364" duration="5315000" />
     </task>
+    <task id="LOCAL-00001" summary="js">
+      <option name="closed" value="true" />
+      <created>1730811544939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730811544939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="js" />
+    <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
