@@ -5,8 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33921f0f-da4a-44be-96bb-faf18b2b148c" name="Changes" comment="js">
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 11/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/hm js 2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/hm js 2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/hm js 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/hm js 2/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,43 +48,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Mishazabrodskij"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mishazabrodskij&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mishazabrodskij/JS.git",
-    "accountId": "7f7a8303-a2eb-4a4d-8a1f-471c0003ec45"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mishazabrodskij/JS.git&quot;,
+    &quot;accountId&quot;: &quot;7f7a8303-a2eb-4a4d-8a1f-471c0003ec45&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2oORnFkarwdzdwMhcfGsrtp1srC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/user/IdeaProjects/JS/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/user/IdeaProjects/JS/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +101,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730738801149</updated>
-      <workItem from="1730738802364" duration="5315000" />
+      <workItem from="1730738802364" duration="11394000" />
+      <workItem from="1730929532687" duration="4319000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <option name="closed" value="true" />
@@ -88,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730811544939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="js">
+      <option name="closed" value="true" />
+      <created>1730817907761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730817907761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
