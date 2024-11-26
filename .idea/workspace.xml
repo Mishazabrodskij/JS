@@ -4,32 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33921f0f-da4a-44be-96bb-faf18b2b148c" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 11/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 5/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 6/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 7/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 8/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/hm js 2/Task 9/main.js" afterDir="false" />
+    <list default="true" id="33921f0f-da4a-44be-96bb-faf18b2b148c" name="Changes" comment="jsd">
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task 7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 3/Task4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 4/Task 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hm js 4/Task 1/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/hm js 2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/hm js 2/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1730738801149</updated>
       <workItem from="1730738802364" duration="11394000" />
-      <workItem from="1730929532687" duration="4319000" />
+      <workItem from="1730929532687" duration="5710000" />
+      <workItem from="1731141803946" duration="102000" />
+      <workItem from="1731142123078" duration="13211000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <option name="closed" value="true" />
@@ -120,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730817907761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="js">
+      <option name="closed" value="true" />
+      <created>1730994450148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730994450148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js" />
-    <option name="LAST_COMMIT_MESSAGE" value="js" />
+    <MESSAGE value="jsd" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
